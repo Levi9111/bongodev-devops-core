@@ -1,1 +1,1 @@
-Optimization setting on MAIN branch
+Optimization setting on main branch
